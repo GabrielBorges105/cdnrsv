@@ -60,9 +60,10 @@ select.medium {
 .redesigned-theme-2018 ul{
     display: flex !important;
     justify-content: center !important;
-    align-items: center !important;
+    /* align-items: center !important; */
     margin: 32px 0px !important;
     width: 100% !important;
+    padding-top: 20px!important;
 }
 .redesigned-theme-2018 ul li{
     padding: 0px!important;
@@ -106,4 +107,9 @@ li[fo1li1] {
 input.medium,
 select.medium {
     width: 100% !important;
+}
+
+
+.redesigned-theme-2018 form #errorLi {
+    display: none!important;
 }
