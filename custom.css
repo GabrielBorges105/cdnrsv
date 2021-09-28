@@ -64,6 +64,11 @@ select.medium {
     margin: 32px 0px !important;
     width: 100% !important;
 }
+.redesigned-theme-2018 ul li{
+    padding: 0px!important;
+}
+
+
 
 .redesigned-theme-2018 input.btTxt {
     border-radius: 0px!important;
